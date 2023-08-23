@@ -1,0 +1,41 @@
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.logo{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Noto Sans Vithkuqi', sans-serif;
+    font-family: 'Press Start 2P', cursive; 
+    color: black;
+    padding-left: 10px;
+}
+.footer-text{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Noto Sans Vithkuqi', sans-serif;
+    font-family: 'Press Start 2P', cursive; 
+    color: black;
+    padding-left: 10px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+footer{
+    padding-bottom: none;
+}
+footer li{
+    border-radius: 50px;
+    padding-right: 30px;
+}
+footer .text-body-secondary{
+    color: black !important;
+}
+
+
+ 
+
