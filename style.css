@@ -25,6 +25,9 @@ a{
     align-items: center;
     justify-content: space-between;
  }
+.container.skills{
+    justify-content: center !important;
+}
 footer{
     padding-bottom: none;
 }
